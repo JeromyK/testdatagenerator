@@ -1,0 +1,77 @@
+streetName;streetNumber;postCode;cityName;countryCode;countryName;countryDialingCode;cityDialingCode;subscriber
+Neue Allmendstrasse;4;4612;Wangen b. Olten;CH;Schweiz;41;71;7
+Pro Familiaweg;26;6460;Altdorf;CH;Schweiz;41;44;7
+Bühl;22;5053;Staffelbach;CH;Schweiz;41;77;7
+Haselweg;8;3363;Oberönz;CH;Schweiz;41;79;7
+Kehrstrasse;4;6234;Triengen;CH;Schweiz;41;51;7
+Rikonerstrasse;30;8307;Effretikon;CH;Schweiz;41;76;7
+Oberthalstrasse;14;3532;Zäziwil;CH;Schweiz;41;51;7
+Krauchthalstrasse;26;3414;Oberburg;CH;Schweiz;41;76;7
+Steckbornstrasse;61;8505;Pfyn;CH;Schweiz;41;55;7
+Hauptstrasse;4;2572;Sutz;CH;Schweiz;41;77;7
+Weite Gasse;12;5400;Baden;CH;Schweiz;41;79;7
+Mühlebühl;25;9100;Herisau;CH;Schweiz;41;51;7
+Gottstattstrasse;7;2552;Orpund;CH;Schweiz;41;76;7
+Holbeinstrasse;65;4051;Basel;CH;Schweiz;41;77;7
+Oberbotsbergstrasse;53;9230;Flawil;CH;Schweiz;41;79;7
+Wartstrasse;31;8400;Winterthur;CH;Schweiz;41;51;7
+Im Höfli;2;4453;Nusshof;CH;Schweiz;41;76;7
+Landstrasse;19;9545;Wängi;CH;Schweiz;41;77;7
+Hundgellen;8;6205;Eich;CH;Schweiz;41;79;7
+Bahnhofstrasse;88;9240;Uzwil;CH;Schweiz;41;51;7
+Rüttistrasse;5;6467;Schattdorf;CH;Schweiz;41;76;7
+Rheinweg;1A;8200;Schaffhausen;CH;Schweiz;41;51;7
+Lützelflühstrasse;58;3415;Rüegsauschachen;CH;Schweiz;41;76;7
+Rebstockweg;52;3232;Ins;CH;Schweiz;41;55;7
+Zürcherstrasse;31;4332;Stein;CH;Schweiz;41;77;7
+Sunnmatt;4;8126;Zumikon;CH;Schweiz;41;79;7
+Rütihof;143;4316;Hellikon;CH;Schweiz;41;51;7
+Bergstrasse;293;8707;Uetikon am See;CH;Schweiz;41;76;7
+Schleifeweg;9;6294;Ermensee;CH;Schweiz;41;51;7
+Sennheimerstrasse;35;4054;Basel;CH;Schweiz;41;76;7
+Krinäuli;15;9622;Krinau;CH;Schweiz;41;55;7
+Sonnhaldenstrasse;4;6343;Rotkreuz;CH;Schweiz;41;76;7
+Trutigen;10;6203;Sempach Station;CH;Schweiz;41;76;7
+Neuenhäuser Str.;2;38458;Velpke;DE;Deutschland;49;;7
+Brigidastr.;2;52388;Nörvenich Frauwüllesheim;DE;Deutschland;49;30;7
+Im Westerfelde;46;21391;Reppenstedt;DE;Deutschland;49;170;7
+Pfarrgasse;3;86923;Finning;DE;Deutschland;49;1801;7
+Lohrhaupter Str.;27;63637;Jossgrund Pfaffenhause;DE;Deutschland;49;22;7
+Elsawaweg;5;63071;Offenbach Tempelsee;DE;Deutschland;49;27;7
+Zum Voelsang;15;35781;Weilburg Kubach;DE;Deutschland;49;27;7
+Mönchweg;7;78253;Eigeltingen;DE;Deutschland;49;33;7
+Ortsstr.;16;7907;Göschitz;DE;Deutschland;49;29;7
+Würmstr.;15;82166;Gräfelfing;DE;Deutschland;49;44;7
+Bliesgersweiler Mühle;13;66271;Kleinblittersdorf Auersmacher;DE;Deutschland;49;23;7
+Marktplatz;8;83209;Prien a. Chiemsee;DE;Deutschland;49;55;7
+Am Nartenberg;1;67256;Weisenheim;DE;Deutschland;49;61;7
+Südring;73A;33428;Harsewinkel;DE;Deutschland;49;72;7
+Am Kälberanger;12;38302;Wolfenbüttel;DE;Deutschland;49;73;7
+Göttinger Breede;6;59329;Wadersloh Liesborn;DE;Deutschland;49;33;7
+Hauptstr.;16;58332;Schwelm;DE;Deutschland;49;36;7
+Mevissenstr.;62B;47803;Krefeld ;DE;Deutschland;49;29;7
+Hauptstr.;18;58332;Schwelm;DE;Deutschland;49;44;7
+Maretstr.;45;21073;Hamburg Harburg;DE;Deutschland;49;23;7
+Hauptstr.;16;58332;Schwelm;DE;Deutschland;49;55;7
+Hauptstr.;16;58332;Schwelm;DE;Deutschland;49;61;7
+Dorfstr.;4;27252;Schwaförden;DE;Deutschland;49;72;7
+Alleestr.;3;69514;Laudenbach;DE;Deutschland;49;29;7
+Hofkoppel;9;29303;Bergen Wohlde;DE;Deutschland;49;44;7
+Brunnenweg;10;97990;Weikersheim Elpersheim;DE;Deutschland;49;23;7
+Louis-Schuler-Str.;25;73033;Göppingen;DE;Deutschland;49;55;7
+Harald-Blank-Str.;56;53859;Niederkassel Rheidt;DE;Deutschland;49;61;7
+Schanzweg;26;56648;Saffig;DE;Deutschland;49;44;7
+Schillerstr.;44;66265;Heusweiler;DE;Deutschland;49;23;7
+Lebnerg;1;1210;Wien;AT;Österreich;43;12;7
+Maria-Theresien-Str.;8;6890;Lustenau;AT;Österreich;43;24;7
+Ressavarstr.;48;8230;Hartberg;AT;Österreich;43;37;7
+Lainzer Str.;25;1130;Wien;AT;Österreich;43;42;7
+Körösistr.;21;8010;Graz;AT;Österreich;43;52;7
+Sonnberg;57;4180;Sonnberg im Mühlkreis;AT;Österreich;43;63;7
+Wasnerg;21;1200;Wien;AT;Österreich;43;77;7
+Innsbrucker Str.;35;6175;Kematen in Tirol;AT;Österreich;43;11;7
+Austrasse;70;9490;Vaduz;LI;Liechtenstein;423;;7
+Bühelstrasse;49;9497;Triesenberg;LI;Liechtenstein;423;;7
+Industriestrasse;24;9487;Gamprin-Bendern;LI;Liechtenstein;423;;7
+Gruabastrasse;10;9497;Triesenberg;LI;Liechtenstein;423;;7
+Birkenweg;12;9494;Schaan;LI;Liechtenstein;423;;7
